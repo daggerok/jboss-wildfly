@@ -1,4 +1,9 @@
 # jboss-wildfly [![Build Status](https://travis-ci.org/daggerok/jboss-wildfly.svg?branch=master)](https://travis-ci.org/daggerok/jboss-wildfly)
+
+## DEPRECATED
+
+### USE [daggerok](https://github.com/daggerok/jboss)/[jboss:wildfly-12.0.0.Final](https://hub.docker.com/r/daggerok/jboss) instead
+
 JBOSS WildFly 11.0.0.Final docker image (Linux Alpine, OpenJDK 8u151)
 
 **Exposed ports**:
